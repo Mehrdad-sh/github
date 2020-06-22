@@ -4,3 +4,19 @@ git add readme.md
 
 git status
 
+
+1- git add . %to add all the files
+
+2- git commit -m "addede a line"
+
+
+1- git checkout -b newBranch  %Switched to a new branch 'newBranch'
+
+2- git add . %to add all the files
+
+3- git commit -m "added a line"
+
+
+git checkout master
+
+git merge master
